@@ -1,5 +1,5 @@
 // src/components/ProjectTimelineCard/index.js
-import React from 'react'
+
 import {AiFillCalendar} from 'react-icons/ai'
 
 import './index.css'

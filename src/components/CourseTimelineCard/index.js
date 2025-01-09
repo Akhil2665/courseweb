@@ -1,6 +1,4 @@
 // src/components/CourseTimelineCard/index.js
-import React from 'react'
-
 import {AiFillClockCircle} from 'react-icons/ai'
 
 import './index.css'
