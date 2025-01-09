@@ -5,14 +5,9 @@ import {AiFillCalendar} from 'react-icons/ai'
 import './index.css'
 
 const ProjectTimelineCard = ({projectDetails}) => {
-  const {
-    projectTitle,
-    description,
-    imageUrl,
-    duration,
-    projectUrl,
-  } = projectDetails
-
+  const {projectTitle, description, imageUrl, duration, projectUrl} =
+    projectDetails
+  // project details updated
   return (
     <div className="course-card">
       <img src={imageUrl} alt="project" className="project-image" />
