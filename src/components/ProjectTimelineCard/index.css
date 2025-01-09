@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.project-image {
+  height: 80px;
+  width: 10pxs;
+}
+.course-title-container {
+  display: flex;
+  justify-content: space-between;
+}
+.project-card {
+  max-height: 300px;
+  min-width: 300px;
+}
+
+h2 {
+  width: 60%;
+}
+.duration-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 40%;
+}

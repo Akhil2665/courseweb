@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.chrono-container {
+  min-width: 100vw;
+  min-height: 100vh;
+}
+.app-page-container {
+  min-height: 100vh;
+  min-width: 100vw;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

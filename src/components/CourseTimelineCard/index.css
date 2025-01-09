@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.course-title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.course-card {
+  min-height: 300px;
+  min-width: 300px;
+}
+
+.tag-name {
+  background-color: #b5b7c4;
+  color: #171f46;
+  font-weight: 400;
+  border-radius: 6px;
+  margin: 4px;
+
+  padding: 8px;
+}
+.tags-container {
+  font-family: 'roboto';
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.duration-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 40%;
+}
